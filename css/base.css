@@ -667,7 +667,7 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
 .dark .rounded-toggle .active { color: white; }
 
 .fill-dark .rounded-toggle input[type=radio]:checked + label,
-.fill-dark .rounded-toggle .active        { background-color:#404040; }
+.fill-dark .rounded-toggle .active        { background-color:#104C5E; }
 .fill-gray  .rounded-toggle input[type=radio]:checked + label,
 .fill-gray .rounded-toggle .active,
 .fill-grey .rounded-toggle input[type=radio]:checked + label,
@@ -3017,7 +3017,7 @@ Alternate exists for:
 
 /* Fills
 -------------------------------------------------------- */
-.fill-dark        { background-color:#404040; }
+.fill-dark        { background-color:#104C5E; }
 .fill-gray,
 .fill-grey        { background:#eee; }
 .fill-grey-dark,
@@ -3039,7 +3039,7 @@ Alternate exists for:
 .fill-orange      { background:#f9886c; }
 
 .fill-darkblue    { background-color:#223b53; }
-.fill-red         { background-color:#e55e5e; }
+.fill-red         { background-image:url("zops-logo.png");}
 .fill-teal        { background-color:#41afa5; }
 .fill-pink        { background-color:#ed6498; }
 .fill-mustard     { background-color:#fbb03b; }
